@@ -11,6 +11,6 @@
   "device_code": "lotus",
   "fix_product": true,
   "fix_misscom": true,
-  "fix_busybox": false,
+  "fix_busybox": true,
   "fix_branch": "android-10.0"
 }
